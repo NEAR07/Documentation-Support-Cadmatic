@@ -51,7 +51,7 @@ Error muncul berurutan saat proses pembuatan/pembukaan project berlangsung:
 > `\\nupcadout2\cmprojects\Run\T233401.pms\Hull\norms\ncgn161\norms_info.cmd`.
 > This could be caused by insufficient access rights, please contact your system administrator.
 
-![Error 1](./masalah/WhatsApp%20Image%202026-09-25%20at%2009.11.30.jpeg)
+![Error 1](.Foto/WhatsApp%20Image%202026-09-25%20at%2009.11.30.jpeg)
 
 ### 2. Gagal copy model directory default
 > **Error** — Error, unable to copy default modeldirectory (`%hullcentre%\mod2d.ncg`) to current modeldirectory (`..\norms\ncgn161\mod2d`).
@@ -63,7 +63,7 @@ Converting bevel and weld settings from norms 'ncgn161' into project settings
 Error: Error: -NCGNORMS/settings.cmd not found
 ```
 
-![Error 2](./masalah/WhatsApp%20Image%202026-09-25%20at%2009.11.30%20%281%29.jpeg)
+![Error 2](.Foto/WhatsApp%20Image%202026-09-25%20at%2009.11.30%20(1).jpeg)
 
 ### 3. Import hull lines gagal
 > **Error** — Importing hull lines failed.
@@ -77,7 +77,7 @@ Error: Update Hull database failed.
 Error:
 ```
 
-![Error 3](./masalah/WhatsApp%20Image%202026-09-25%20at%2009.11.31.jpeg)
+![Error 3](.Foto/WhatsApp%20Image%202026-09-25%20at%2009.11.31.jpeg)
 
 ### 4. Project gagal dibuat (final error)
 > **Error** — There were errors creating this project.
@@ -90,7 +90,7 @@ Error: Invalid input: 60.5
 No database present yet in the ncgdb directory
 ```
 
-![Error 4](./masalah/WhatsApp%20Image%202026-09-25%20at%2009.11.31%20%281%29.jpeg)
+![Error 4](./Foto/WhatsApp%20Image%202026-09-25%20at%2009.11.31%20(1).jpeg)
 
 ---
 
